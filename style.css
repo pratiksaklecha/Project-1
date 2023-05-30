@@ -18,7 +18,7 @@ body {
 #header {
     width: 100%;
     height: 100vh;
-    background-image: url(images/Namanbackground.png);
+    background-image: url(Namanbackground.png);
     background-size: cover;
     background-position: center;
 }
@@ -398,7 +398,7 @@ nav .fas {
 @media only screen and (max-width:600px) {
 
     #header {
-        background-image: url(images/Pratik_smaller_screen.png);
+        background-image: url(Pratik_smaller_screen.png);
     }
 
     .header-text {
